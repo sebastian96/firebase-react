@@ -1,0 +1,8 @@
+.card.m-1 {
+    max-width: 370px;
+}
+
+textarea {
+    max-height: 150px;
+    min-height: 50px;
+}
